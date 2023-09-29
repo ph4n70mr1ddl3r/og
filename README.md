@@ -1,7 +1,7 @@
 How to get hired by Ethereum OG's:  
 1. Get the Ethereum genesis data (address and amount).  
 2. Create a script to create a merkle tree and take note of the merkle root and the merkle proofs of each entry.  
-3. Create a an immutable smart contract for an ERC20 token named OG.  
+3. Create an immutable smart contract for an ERC20 token named OG.  
 4. Include a merkle airdrop in the contract where anyone can call a claim function and claim OG tokens.  
 5. Upload everything on github and deploy the smart contract.  
 6. Let everyone verify that everything is fairly and honestly done.  
