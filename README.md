@@ -26,3 +26,6 @@ Sample claim using etherscan write contract:
 https://etherscan.io/address/0x6d7033b9301db0e559c4a13d52b8e1b819bf2e8a#writeContract
 
 ![claim](ogclaimsample.png)
+
+Precalculated proofs are here:  
+https://raw.githubusercontent.com/ph4n70mr1ddl3r/og/main/proofs.txt
